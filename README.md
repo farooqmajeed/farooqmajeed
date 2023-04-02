@@ -116,7 +116,7 @@ Started working professionally as a software engineer from 2018. I'm a quality o
 
 <br/>  
 
-  
+  https://www.canva.com/design/DAFZ5Bnw2QI/pRmDM2EcBbyZDCBQfTjEkQ/view?utm_content=DAFZ5Bnw2QI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview
 
 <br/>  
 
