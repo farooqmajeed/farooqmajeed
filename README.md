@@ -65,7 +65,7 @@ Started working professionally as a software engineer from 2018. I'm a quality o
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/index.html"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/angular/angular-ar21.svg"></code>
 <br/>  
 <br/> 
 
