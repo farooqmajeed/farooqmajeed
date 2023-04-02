@@ -43,8 +43,11 @@ Started working professionally as a software engineer from 2018. I'm a quality o
 </td></tr></table>  
 
 <br/>  
+<br/>  
 
-https://github-profile-trophy.vercel.app/?username=farooqmajeed&theme=tokyonight
+https://github-profile-trophy.vercel.app/?username=farooqmajeed&theme=radical
+
+<br/>  
 <br/>  
 
 
