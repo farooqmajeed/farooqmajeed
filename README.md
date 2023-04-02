@@ -91,6 +91,7 @@ Started working professionally as a software engineer from 2018. I'm a quality o
 
 <br/>  
 
+[![trophy](https://github-profile-trophy.vercel.app/?farooqmajeed=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
