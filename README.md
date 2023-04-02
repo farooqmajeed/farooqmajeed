@@ -52,8 +52,22 @@ Started working professionally as a software engineer from 2018. I'm a quality o
 </div>
 
 <br/>  
-<br/>  
+<br/> 
 
+
+##Main Skills
+
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"></code>
+<br/>  
+<br/> 
 
 ## Languages and Tools  
 <div align="center">  
@@ -103,12 +117,15 @@ Started working professionally as a software engineer from 2018. I'm a quality o
 
 
 
-## Github Stats  
+<!-- ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=farooqmajeed&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="50%"> -->
+<br/>  
+<br/> 
+<img src="https://github-readme-stats.vercel.app/api?username=farooqmajeed&show_icons=true&theme=dark"/>
 
 <br/>  
 <br/>  
@@ -116,14 +133,29 @@ Started working professionally as a software engineer from 2018. I'm a quality o
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=farooqmajeed"/>
 
 <br/>  
-
 <br/>  
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=farooqmajeed"/>
+  
+ <br/>  
+<br/> 
+  
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=farooqmajeed&repo=github_profile"/>
+
+<a href="https://medium.com/@farooqmajeed">
+    <img height="50" src="https://cdn4.iconfinder.com/data/icons/social-media-rounded-corners/512/Medium_rounded_cr-306.png"/>
+</a>
+<a href="https://www.linkedin.com/in/farooqmajeed/">
+    <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
+</a>
+<a href="https://open.spotify.com/playlist/7KmIUNWrK8wEHfQcQfFrQ1?si=0e2d44043b5a40a4">
+    <img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/315_Spotify_logo-128.png"/>
+</a>
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=farooqmajeed&&style=flat-square)  
   
 
 <br/>  
-
-
 <br />
 
