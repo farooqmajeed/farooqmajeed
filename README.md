@@ -1,13 +1,5 @@
 ## Hey 👋, I'm Farooq Majeed!  
 
-![]([https://images.unsplash.com/photo-1511914265872-c40672604a80?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80](https://www.canva.com/design/DAFZDHhr9sg/Sk8oVjjbzEgqSMgJ51wDQw/watch?utm_content=DAFZDHhr9sg&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu))
-
-<!-- Markdown approach -->
-![]([https://images.unsplash.com/photo-1511914265872-c40672604a80?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80](https://www.canva.com/design/DAFZDHhr9sg/Sk8oVjjbzEgqSMgJ51wDQw/watch?utm_content=DAFZDHhr9sg&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu))
-<!-- HTML approach -->
-<img src="[https://images.unsplash.com/photo-1511914265872-c40672604a80?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80](https://www.canva.com/design/DAFZDHhr9sg/Sk8oVjjbzEgqSMgJ51wDQw/watch?utm_content=DAFZDHhr9sg&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)"/>
-
-  
 
 <a href="https://linkedin.com/in/farooqmajeed" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -123,7 +115,11 @@ Started working professionally as a software engineer from 2018. I'm a quality o
 </td></tr></table>  
 
 <br/>  
+<br/>  
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=farooqmajeed"/>
+
+<br/>  
 
 <br/>  
 
