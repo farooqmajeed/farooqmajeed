@@ -110,10 +110,6 @@ Started working professionally as a software engineer from 2018. I'm a quality o
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farooqmajeed&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
 <br/>  
 <br/>  
 
