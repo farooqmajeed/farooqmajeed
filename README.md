@@ -1,4 +1,6 @@
 ## Hey 👋, I'm Farooq Majeed!  
+
+https://www.canva.com/design/DAFZDHhr9sg/Sk8oVjjbzEgqSMgJ51wDQw/watch?utm_content=DAFZDHhr9sg&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu
   
 
 <a href="https://linkedin.com/in/farooqmajeed" target="_blank">
@@ -116,7 +118,6 @@ Started working professionally as a software engineer from 2018. I'm a quality o
 
 <br/>  
 
-  https://www.canva.com/design/DAFZ5Bnw2QI/pRmDM2EcBbyZDCBQfTjEkQ/view?utm_content=DAFZ5Bnw2QI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview
 
 <br/>  
 
