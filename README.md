@@ -22,8 +22,8 @@ Started working professionally as a software engineer from 2018. I'm a quality o
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on [Createch Global Solution]((https://createch.solutions/))  
-- 🔭 I’m currently working on [[Shore ventures]](https://shore-ventures.com/)(https://github.com/shoreventures)  
-- 🔭 Worked at [[Emotivesoft.io]](https://emotive.io/)(https://github.com/emotive-soft)  
+- 🔭 I’m currently working on [Shore ventures](https://shore-ventures.com/)(https://github.com/shoreventures)  
+- 🔭 Worked at [Emotivesoft.io](https://emotive.io/)(https://github.com/emotive-soft)  
 - 🔭 Worked at [Panacloud.io](https://github.com/panacloud)  
   
 
