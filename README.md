@@ -19,7 +19,7 @@ Started working professionally as a software engineer from 2018. I'm a quality o
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
 - 🔭 I’m currently working on [Createch Global Solution](https://createch.solutions/)
 - 🔭 I’m currently working on [Shore ventures](https://shore-ventures.com/)
