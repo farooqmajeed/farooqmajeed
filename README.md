@@ -30,7 +30,7 @@ Started working professionally as a software engineer from 2018. I'm a quality o
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- Know about my experiences https://www.linkedin.com/in/farooqmajeed/  
+- Know about my experiences [LinkedIn](https://www.linkedin.com/in/farooqmajeed/)
 
 
 </td><td valign="top" width="50%">
